@@ -1,4 +1,6 @@
 Social-Aggregator
 =================
 
-A Java application which tracks multiple users across Facebook and Twitter and displays their status updates and tweets in a single console window in a time-sorted order.
+All-in-One Social Media Tool
+
+This application is designed to function as a social media aggregator, offering a cross-platform solution. It retrieves social media content from various platforms, such as Facebook and Twitter, presenting it in a unified and chronologically ordered view within a dedicated console window. 
